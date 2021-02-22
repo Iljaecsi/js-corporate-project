@@ -79,6 +79,4 @@ export default class MiniSlider extends Slider {
       }
     } catch (error) {}
   }
-
-
 }
