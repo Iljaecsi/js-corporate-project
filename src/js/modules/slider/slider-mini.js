@@ -77,6 +77,6 @@ export default class MiniSlider extends Slider {
           clearInterval(interval)
         });
       }
-    } catch (error) {}
+    } catch (e) {}
   }
 }
